@@ -23,4 +23,4 @@ User/Profile/Field
 
 **Usage:**
 
-The extended MultiSelect plugin can be easily integrated into your existing Moodle instance. Refer to the provided documentation to install and configure the plugin, and take advantage of its extended capabilities when creating and managing selections.
+The extended MultiSelect plugin can be easily integrated into your existing Moodle instance. To obtain the code, feel free to reach out to me on [Upwork](https://www.upwork.com/freelancers/~0188ff047bab91ab3c). Take advantage of its extended capabilities when creating and managing selections.
